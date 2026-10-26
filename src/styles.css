@@ -267,11 +267,11 @@ html { scroll-behavior: smooth; scroll-padding-top: 110px; }
 .program-card { display: flex; flex-direction: column; }
 .program-card > img, .program-icon-banner { height: 170px; flex-shrink: 0; }
 .program-content { display: flex; flex-direction: column; flex: 1; }
-.program-content > p:last-of-type { margin-bottom: 18px; }
-.program-content > .service-action { margin-top: auto; }
+.program-content > p:last-of-type { margin-bottom: 0; }
+.program-content > .service-action { margin-top: 18px; }
 .program-content > .donation-note { margin-bottom: 0; }
 .program-content > .translations { margin-top: 18px; }
-@media(min-width:601px) { .program-card { min-height: 560px; } }
+
 
 /* Keep section navigation available below the mobile header. */
 @media(max-width:900px) {

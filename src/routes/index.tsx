@@ -232,8 +232,8 @@ export default function Index() {
             return <article className="program-card" key={program.title}>
               {program.img ? <img src={program.img} alt="" loading="lazy" width={768} height={576} /> : <div className="program-icon-banner"><BannerArtwork name={program.icon ?? group.icon} /></div>}
               <div className="program-content"><div className="program-title"><BannerArtwork name={program.icon ?? (index === 6 ? "documents" : group.icon)} className="card-icon" /><h4>{title}</h4></div><p className="program-audience">{audience}</p><p>{program[language]}</p>
-                <a className="service-action" href={program.requestUrl ?? (program.requestType === "household-items" ? HOUSEHOLD_ITEMS_URL : SOCIAL_SUPPORT_URL)} {...external} aria-label={`${label}: ${title} (${t.newTab})`}>{label}<span aria-hidden="true">↗</span></a>
                 {program.requestType === "household-items" && <p className="donation-note">{t.availability}</p>}
+                <a className="service-action" href={program.requestUrl ?? (program.requestType === "household-items" ? HOUSEHOLD_ITEMS_URL : SOCIAL_SUPPORT_URL)} {...external} aria-label={`${label}: ${title} (${t.newTab})`}>{label}<span aria-hidden="true">↗</span></a>
               </div>
             </article>;
           })}</div>
