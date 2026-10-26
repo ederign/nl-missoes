@@ -1,0 +1,13 @@
+/* Urban Missions light palette. Import and use --um-* tokens.
+   Approximate reference colors; see palette.json for provenance. */
+:root {
+  --um-white: #FFFFFF; /* Cards and clean sections */
+  --um-cream: #FAF5E6; /* Primary light background */
+  --um-mist: #E3F8D5; /* Service icons and gentle highlights */
+  --um-green: #28A000; /* Brand accents and large display text */
+  --um-lime: #A0D000; /* Small decorative accents, with dark text */
+  --um-action: #237A0B; /* Buttons with white labels; links on light backgrounds */
+  --um-ink: #11130F; /* Headings and body text */
+  --um-muted: #535B4D; /* Captions and supporting text */
+  --um-border: #D6DDCF; /* Decorative dividers and card borders */
+}

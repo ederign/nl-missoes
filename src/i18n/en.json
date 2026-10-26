@@ -1,0 +1,133 @@
+{
+  "ui": {
+    "skip": "Skip to content",
+    "nav": "Main navigation",
+    "home": "Home",
+    "services": "Services",
+    "how": "How it works",
+    "contact": "Contact",
+    "support": "Social support",
+    "ministry": "Urban Missions",
+    "heroStart": "URBAN MISSIONS",
+    "heroEnd": "HOPE IN MOTION",
+    "intro": "We are a ministry focused on social support, where you can find the help you need.",
+    "supportCTA": "I need social support",
+    "itemsCTA": "I need items for my home",
+    "supportDescription": "Help with health coverage, housing, energy bills, documents and other programs.",
+    "itemsDescription": "Request furniture, appliances, clothing, household essentials and children’s items.",
+    "availability": "Availability depends on donations received. A request does not guarantee that items will be provided.",
+    "newTab": "opens in a new tab",
+    "welcomeEyebrow": "NEW LIFE",
+    "welcomeTitle": "A PLACE OF HOPE",
+    "welcomeText": "Choose the service, fill in your information and submit your request. A member of our team will contact you.",
+    "browse": "Explore services",
+    "servicesEyebrow": "HOW WE CAN HELP",
+    "servicesTitle": "Find the support you need.",
+    "serviceWord": "services",
+    "areaWord": "areas of support",
+    "categories": "Service categories",
+    "nextStep": "YOUR NEXT STEP",
+    "stepsTitle": "How to request help",
+    "step1": "Find a service",
+    "step1Text": "Explore the areas of support and identify what you need.",
+    "step2": "Complete the form",
+    "step2Text": "Choose social support for programs or items for your home to request donated goods. Complete the form that opens in a new tab.",
+    "step3": "Wait for our team to contact you",
+    "step3Text": "Our team will contact you to discuss your needs and next steps.",
+    "contactEyebrow": "WE ARE HERE TO HELP",
+    "contactTitle": "Contact us",
+    "contactText": "Do you need help with programs or items for your home? Choose the option that matches your needs.",
+    "questions": "Have a question?",
+    "email": "Email our team.",
+    "churchAlt": "Line illustration of the New Life Church building",
+    "back": "Back to top",
+    "serviceCTA": "Request social support",
+    "itemsServiceCTA": "Request items for my home",
+    "legalCTA": "Request legal assistance",
+    "language": "Language",
+    "welcome": "Welcome to the Urban Missions Ministry",
+    "phone": "Calls and text messages:",
+    "textMessage": "Prefer a text message?",
+    "sendText": "Send a text message"
+  },
+  "groups": [
+    [
+      "Health and family",
+      "Care for you and your family."
+    ],
+    [
+      "Housing and energy",
+      "Guidance to help you care for your home."
+    ],
+    [
+      "Food, furniture and donations",
+      "Support with everyday essentials."
+    ],
+    [
+      "Documents and immigration",
+      "Help with documents and forms."
+    ],
+    [
+      "Protection",
+      "Confidential support and guidance."
+    ],
+    [
+      "Legal assistance",
+      "Guidance on your rights in civil matters."
+    ]
+  ],
+  "programs": [
+    [
+      "MassHealth",
+      "For people without health coverage or who need to renew it."
+    ],
+    [
+      "HCEC — Housing and rent",
+      "For people behind on rent, facing eviction or having problems with their landlord."
+    ],
+    [
+      "HEAP — Energy bills",
+      "For people struggling to pay electricity, gas or heating oil bills in winter."
+    ],
+    [
+      "VAWA — Domestic violence",
+      "For people experiencing or who have experienced domestic violence or abuse."
+    ],
+    [
+      "WIC — Pregnancy and children",
+      "For pregnant people, new mothers and children up to age 5."
+    ],
+    [
+      "Head Start — Early education and health",
+      "For families with children from birth to age 5."
+    ],
+    [
+      "Notary public",
+      "For people who need a signature notarized or an official document signed."
+    ],
+    [
+      "Food Pantry — Groceries",
+      "For any family that needs food right now."
+    ],
+    [
+      "Household Goods — Furniture",
+      "For people moving home or missing furniture and basic household items."
+    ],
+    [
+      "Green Card — Renewal (I-90)",
+      "For people whose Green Card has expired, is expiring, or has been lost or stolen."
+    ],
+    [
+      "Citizenship (N-400)",
+      "For Green Card holders who want to become U.S. citizens."
+    ],
+    [
+      "Certificate of Citizenship (N-600)",
+      "For children who acquired citizenship through their parents and need proof."
+    ],
+    [
+      "Legal assistance",
+      "For young people, families and older adults who need legal assistance."
+    ]
+  ]
+}

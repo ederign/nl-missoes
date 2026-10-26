@@ -1,0 +1,80 @@
+{
+  "ui": {
+    "skip": "Ir para o conteúdo",
+    "nav": "Navegação principal",
+    "home": "Início",
+    "services": "Serviços",
+    "how": "Como funciona",
+    "contact": "Contato",
+    "support": "Apoio social",
+    "ministry": "Missões Urbanas",
+    "heroStart": "URBAN MISSIONS",
+    "heroEnd": "HOPE IN MOTION",
+    "intro": "Somos um ministério focado em suporte social, onde você pode encontrar a ajuda que precisa.",
+    "supportCTA": "Preciso de apoio social",
+    "itemsCTA": "Preciso de itens para minha casa",
+    "supportDescription": "Ajuda com saúde, moradia, energia, documentos e outros programas.",
+    "itemsDescription": "Solicite móveis, eletrodomésticos, roupas, utensílios e itens infantis.",
+    "availability": "A disponibilidade depende das doações recebidas. A solicitação não garante o recebimento dos itens.",
+    "newTab": "abre em uma nova aba",
+    "welcomeEyebrow": "NEW LIFE",
+    "welcomeTitle": "A PLACE OF HOPE",
+    "welcomeText": "Escolha o serviço, preencha os seus dados e envie a solicitação. Alguém do nosso time fará contato com você.",
+    "browse": "Conhecer os serviços",
+    "servicesEyebrow": "COMO PODEMOS AJUDAR",
+    "servicesTitle": "Encontre o apoio de que precisa.",
+    "serviceWord": "serviços",
+    "areaWord": "áreas de apoio",
+    "categories": "Categorias de serviços",
+    "nextStep": "SEU PRÓXIMO PASSO",
+    "stepsTitle": "Como solicitar ajuda",
+    "step1": "Encontre o serviço",
+    "step1Text": "Veja as áreas de apoio e identifique o que você precisa.",
+    "step2": "Preencha o formulário",
+    "step2Text": "Escolha apoio social para os programas ou itens para sua casa para solicitar itens doados. Preencha o formulário que abrir em uma nova aba.",
+    "step3": "Aguarde o contato",
+    "step3Text": "Nossa equipe entrará em contato para conversar sobre sua necessidade e os próximos passos.",
+    "contactEyebrow": "ESTAMOS AQUI PARA AJUDAR",
+    "contactTitle": "Entre em contato",
+    "contactText": "Você precisa de orientação nos programas ou de itens para sua casa? Escolha a opção que corresponde à sua necessidade.",
+    "questions": "Ficou com alguma dúvida?",
+    "email": "Envie um e-mail para nossa equipe.",
+    "churchAlt": "Ilustração da fachada da New Life Church",
+    "back": "Voltar ao início",
+    "serviceCTA": "Solicitar apoio social",
+    "itemsServiceCTA": "Solicitar itens para minha casa",
+    "legalCTA": "Solicitar assistência jurídica",
+    "language": "Idioma",
+    "welcome": "Bem-vindo ao Ministério de Missões Urbanas",
+    "phone": "Ligações e mensagens de texto:",
+    "textMessage": "Prefere uma mensagem?",
+    "sendText": "Enviar mensagem de texto"
+  },
+  "groups": [
+    [
+      "Saúde e família",
+      "Cuidados para você e sua família."
+    ],
+    [
+      "Moradia e energia",
+      "Orientação para cuidar da sua casa."
+    ],
+    [
+      "Alimentos, móveis e doações",
+      "Apoio com necessidades do dia a dia."
+    ],
+    [
+      "Documentos e imigração",
+      "Ajuda com documentos e formulários."
+    ],
+    [
+      "Proteção",
+      "Acolhimento e orientação confidencial."
+    ],
+    [
+      "Assistência jurídica",
+      "Orientação sobre seus direitos em questões civis."
+    ]
+  ],
+  "programs": []
+}

@@ -1,0 +1,133 @@
+{
+  "ui": {
+    "skip": "Ir al contenido",
+    "nav": "Navegación principal",
+    "home": "Inicio",
+    "services": "Servicios",
+    "how": "Cómo funciona",
+    "contact": "Contacto",
+    "support": "Apoyo social",
+    "ministry": "Misiones Urbanas",
+    "heroStart": "URBAN MISSIONS",
+    "heroEnd": "HOPE IN MOTION",
+    "intro": "Somos un ministerio enfocado en apoyo social, donde puedes encontrar la ayuda que necesitas.",
+    "supportCTA": "Necesito apoyo social",
+    "itemsCTA": "Necesito artículos para mi hogar",
+    "supportDescription": "Ayuda con cobertura médica, vivienda, energía, documentos y otros programas.",
+    "itemsDescription": "Solicita muebles, electrodomésticos, ropa, utensilios y artículos infantiles.",
+    "availability": "La disponibilidad depende de las donaciones recibidas. La solicitud no garantiza la entrega de los artículos.",
+    "newTab": "se abre en una pestaña nueva",
+    "welcomeEyebrow": "NEW LIFE",
+    "welcomeTitle": "A PLACE OF HOPE",
+    "welcomeText": "Elige el servicio, completa tus datos y envía la solicitud. Nuestro equipo se comunicará contigo.",
+    "browse": "Conocer los servicios",
+    "servicesEyebrow": "CÓMO PODEMOS AYUDAR",
+    "servicesTitle": "Encuentra el apoyo que necesitas.",
+    "serviceWord": "servicios",
+    "areaWord": "áreas de apoyo",
+    "categories": "Categorías de servicios",
+    "nextStep": "TU PRÓXIMO PASO",
+    "stepsTitle": "Cómo solicitar ayuda",
+    "step1": "Encuentra el servicio",
+    "step1Text": "Consulta las áreas de apoyo e identifica lo que necesitas.",
+    "step2": "Completa el formulario",
+    "step2Text": "Elige apoyo social para los programas o artículos para tu hogar para solicitar bienes donados. Completa el formulario que se abre en una pestaña nueva.",
+    "step3": "Espera nuestro contacto",
+    "step3Text": "Nuestro equipo se pondrá en contacto contigo para conversar sobre tus necesidades y los próximos pasos.",
+    "contactEyebrow": "ESTAMOS AQUÍ PARA AYUDAR",
+    "contactTitle": "Contáctanos",
+    "contactText": "¿Necesitas orientación sobre programas o artículos para tu hogar? Elige la opción que corresponda a tus necesidades.",
+    "questions": "¿Tienes alguna pregunta?",
+    "email": "Escribe un correo a nuestro equipo.",
+    "churchAlt": "Ilustración de la fachada de New Life Church",
+    "back": "Volver al inicio",
+    "serviceCTA": "Solicitar apoyo social",
+    "itemsServiceCTA": "Solicitar artículos para mi hogar",
+    "legalCTA": "Solicitar asistencia jurídica",
+    "language": "Idioma",
+    "welcome": "Bienvenido al Ministerio de Misiones Urbanas",
+    "phone": "Llamadas y mensajes de texto:",
+    "textMessage": "¿Prefieres un mensaje?",
+    "sendText": "Enviar un mensaje de texto"
+  },
+  "groups": [
+    [
+      "Salud y familia",
+      "Cuidado para ti y tu familia."
+    ],
+    [
+      "Vivienda y energía",
+      "Orientación para cuidar de tu hogar."
+    ],
+    [
+      "Alimentos, muebles y donaciones",
+      "Apoyo con las necesidades del día a día."
+    ],
+    [
+      "Documentos e inmigración",
+      "Ayuda con documentos y formularios."
+    ],
+    [
+      "Protección",
+      "Apoyo y orientación confidencial."
+    ],
+    [
+      "Asistencia jurídica",
+      "Orientación sobre tus derechos en asuntos civiles."
+    ]
+  ],
+  "programs": [
+    [
+      "MassHealth",
+      "Para quienes no tienen cobertura médica o necesitan renovarla."
+    ],
+    [
+      "HCEC — Vivienda y alquiler",
+      "Para quienes tienen atrasos en el alquiler, recibieron un aviso de desalojo o tienen problemas con el propietario."
+    ],
+    [
+      "HEAP — Facturas de energía",
+      "Para quienes tienen dificultades para pagar la electricidad, el gas o el combustible de calefacción en invierno."
+    ],
+    [
+      "VAWA — Violencia doméstica",
+      "Para quienes sufren o han sufrido violencia o abuso en el hogar."
+    ],
+    [
+      "WIC — Embarazo y niños",
+      "Para embarazadas, madres que acaban de tener un bebé y niños de hasta 5 años."
+    ],
+    [
+      "Head Start — Educación infantil y salud",
+      "Para familias con niños desde el nacimiento hasta los 5 años."
+    ],
+    [
+      "Notario público",
+      "Para quienes necesitan certificar una firma o firmar un documento oficial."
+    ],
+    [
+      "Food Pantry — Alimentos",
+      "Para cualquier familia que necesite alimentos en este momento."
+    ],
+    [
+      "Household Goods — Muebles",
+      "Para quienes se mudan o no tienen muebles y artículos básicos para su hogar."
+    ],
+    [
+      "Green Card — Renovación (I-90)",
+      "Para quienes tienen una Green Card vencida, próxima a vencer, perdida o robada."
+    ],
+    [
+      "Ciudadanía (N-400)",
+      "Para residentes con Green Card que desean obtener la ciudadanía estadounidense."
+    ],
+    [
+      "Certificado de Ciudadanía (N-600)",
+      "Para hijos que adquirieron la ciudadanía a través de sus padres y necesitan un comprobante."
+    ],
+    [
+      "Asistencia jurídica",
+      "Para jóvenes, familias y personas mayores que necesitan asistencia jurídica."
+    ]
+  ]
+}

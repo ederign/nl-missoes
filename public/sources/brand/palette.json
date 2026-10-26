@@ -1,0 +1,74 @@
+{
+  "name": "Urban Missions — Light palette",
+  "version": 1,
+  "provenance": "Proposed digital palette informed by the supplied white banners and cream citizenship artwork. Greens approximated from raster samples; neutral shades and accessible action color curated for web use. Not an official print color specification. Dark-background artwork excluded.",
+  "colors": {
+    "white": {
+      "label": "White",
+      "hex": "#FFFFFF",
+      "use": "Cards and clean sections"
+    },
+    "cream": {
+      "label": "Warm cream",
+      "hex": "#FAF5E6",
+      "use": "Primary light background"
+    },
+    "mist": {
+      "label": "Soft green",
+      "hex": "#E3F8D5",
+      "use": "Service icons and gentle highlights"
+    },
+    "green": {
+      "label": "Mission green",
+      "hex": "#28A000",
+      "use": "Brand accents and large display text"
+    },
+    "lime": {
+      "label": "Lime accent",
+      "hex": "#A0D000",
+      "use": "Small decorative accents, with dark text"
+    },
+    "action": {
+      "label": "Action green",
+      "hex": "#237A0B",
+      "use": "Buttons with white labels; links on light backgrounds"
+    },
+    "ink": {
+      "label": "Ink",
+      "hex": "#11130F",
+      "use": "Headings and body text"
+    },
+    "muted": {
+      "label": "Secondary text",
+      "hex": "#535B4D",
+      "use": "Captions and supporting text"
+    },
+    "border": {
+      "label": "Soft border",
+      "hex": "#D6DDCF",
+      "use": "Decorative dividers and card borders"
+    }
+  },
+  "contrast": [
+    {
+      "pair": "Ink / cream",
+      "ratio": 17.14
+    },
+    {
+      "pair": "Secondary / cream",
+      "ratio": 6.48
+    },
+    {
+      "pair": "White / action green",
+      "ratio": 5.44
+    },
+    {
+      "pair": "Action green / white",
+      "ratio": 5.44
+    },
+    {
+      "pair": "Ink / lime",
+      "ratio": 10.25
+    }
+  ]
+}
